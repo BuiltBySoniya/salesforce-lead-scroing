@@ -106,7 +106,5 @@ Key Outcomes:
 The segmentation model transformed raw Salesforce CRM data into strategic intelligence for decision-makers.
 It enabled the organization to:
 Focus on high-value customer clusters with the greatest ROI potential
-
 Align sales and marketing actions through unified data visualization
-
 Establish a scalable segmentation framework applicable across industries
