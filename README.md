@@ -3,7 +3,7 @@
 🌍 Overview
 
 This project builds an AI-driven customer segmentation model using Salesforce CRM data to identify, prioritize, and target high-value customers.
-It combines CRM analytics, clustering, and visualization to enable smarter lead prioritization, campaign alignment, and data-backed decision-making for sales and marketing teams.
+It combines CRM analytics, clustering, and visualization to enable smarter lead prioritization, campaign alignment, and data-backed decision-making for sales and marketing teams!
 
 📘 View Dashboard + Full Case Study →
 
