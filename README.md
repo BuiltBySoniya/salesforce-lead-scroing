@@ -1,4 +1,4 @@
-☁️ Salesforce Market Segmentation
+# ☁️ Salesforce Market Segmentation
 
 🌍 Overview
 
@@ -7,12 +7,12 @@ It combines CRM analytics, clustering, and visualization to enable smarter lead 
 
 📘 View Dashboard + Full Case Study →
 
-🧩 Problem Statement
+## 🧩 Problem Statement
 
 The client’s sales and marketing teams were struggling to identify which customers offered the highest value potential.
 Their existing CRM system tracked large volumes of lead data but lacked data-driven segmentation, resulting in low conversion rates and inconsistent outreach.
 
-The business needed to:
+### The business needed to:
 
 ✅ Analyze Salesforce CRM data to uncover actionable customer clusters
 
@@ -20,37 +20,37 @@ The business needed to:
 
 ✅ Create visual dashboards for continuous market insight
 
-🔍 Approach
+## 🔍 Approach
 
-1️⃣ Define Segmentation Objective
+### 1️⃣ Define Segmentation Objective
 
 Collaborated with sales and marketing teams to define clear segmentation goals, focusing on improving lead targeting and building customized engagement playbooks for top customer tiers.
 
-2️⃣ Extract and Clean CRM Data
+### 2️⃣ Extract and Clean CRM Data
 
 Pulled contacts, opportunities, and engagement data from Salesforce CRM.
 Cleaned and standardized datasets, removing duplicates and aligning inconsistent fields.
 Normalized key attributes such as industry, deal size, and lifecycle stage using Python.
 
-3️⃣ Build AI Segmentation Model
+### 3️⃣ Build AI Segmentation Model
 
 Applied K-Means clustering and hierarchical segmentation in Amazon SageMaker and Python.
 Grouped customers based on revenue potential, opportunity stage, engagement frequency, and region.
 Created profiles for high-growth, retention, and low-priority customer segments.
 
-4️⃣ Visualize Segments and Insights
+### 4️⃣ Visualize Segments and Insights
 
 Developed interactive dashboards in Tableau and Amazon QuickSight.
 Enabled filtering by industry, region, and lifecycle stage for deeper analysis.
 Generated segment-level recommendations for sales and campaign targeting.
 
-5️⃣ Recommend Strategic Actions
+### 5️⃣ Recommend Strategic Actions
 
 Built sales playbooks for each segment category — from retention workflows to cross-sell and upsell automation in Salesforce.
 Provided marketing with actionable messaging guidelines tailored to each segment’s needs.
 
 
-⚙️ Tech Stack
+## ⚙️ Tech Stack
 
 AWS Services:
 
@@ -66,7 +66,7 @@ AWS Glue
 
 Amazon Redshift
 
-Technical Tools:
+## ⚙️Technical Tools:
 
 Salesforce CRM
 
@@ -76,7 +76,7 @@ Pandas
 
 Tableau
 
-Skills Applied:
+## ⚙️Skills Applied:
 
 CRM Data Analysis
 
@@ -88,7 +88,7 @@ Data Visualization
 
 
 
-📈 Results
+## 📈 Results
 
 Key Outcomes:
 
@@ -101,7 +101,7 @@ Key Outcomes:
 ⚙️ Dashboard Adoption: Sales and marketing teams integrated visualization into daily workflows
 
 
-🧠 Business Impact
+## ⚙️🧠 Business Impact
 
 The segmentation model transformed raw Salesforce CRM data into strategic intelligence for decision-makers.
 It enabled the organization to:
