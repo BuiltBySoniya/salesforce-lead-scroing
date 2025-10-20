@@ -1,4 +1,5 @@
 ☁️ Salesforce Market Segmentation
+
 🌍 Overview
 
 This project builds an AI-driven customer segmentation model using Salesforce CRM data to identify, prioritize, and target high-value customers.
